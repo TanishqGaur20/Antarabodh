@@ -20,7 +20,7 @@ const playfairDisplay = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Antarabodh– Best Travel and art retreat in Mumbai/India",
+  title: "Antarabodh– India's First Travel and Art Retreat",
   description:
     "Travel with intention. Antarabodh offers personalized journeys that balance adventure, reflection, and real connection with the world around you.",
   keywords:
